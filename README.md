@@ -21,4 +21,5 @@ El Usuario tiene la capacidad simple de crear tickets
 El ejecutivo tiene la capacidad de poder responder los diferentes tickets creados 
 
 
+![image](https://user-images.githubusercontent.com/53106596/178267971-88a3202a-b4bf-401f-929d-2b92e9fda6eb.png)
 
